@@ -11,11 +11,17 @@ since 2018 💻⌨️
 #### System.out.println("**->Maven"**);
 #### System.out.println("**->Gradle"**);
 #### System.out.println("**->Loombok"**);
+#### System.out.println("**->Bean Validation"**);
 #### System.out.println("**->Spring Boot"**);
 #### System.out.println("**->Spring MVC"**);
 #### System.out.println("**->thymeleaf"**);
 #### System.out.println("**->TDD"**);
 }
+
+####-> git
+####-> Docker 
+
+
 
 
 
