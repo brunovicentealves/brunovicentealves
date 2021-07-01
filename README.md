@@ -8,7 +8,7 @@ since 2018 💻⌨️
 #### System.out.println(**"->Java oo, Hibernate, Maven, Gradle, Lombok, Bean Validation, Spring Boot, Spring MVC, Thymeleaf, TDD ,Junit5,Mockito,Flayway ,PostgresSQL,Mysql,SqlServer,Spring cloud,MicroServiços "**);
 
 ### public OtherKnowledge (){
-#### System.out.println(**"git,Gitlab,, Docker, php, bootstrap, Materialize, Html, Css"**);
+#### System.out.println(**"git,Gitlab,, Docker, php, bootstrap, Materialize, Html, Css, React , Angular"**);
 
 ###     }
 ### }
