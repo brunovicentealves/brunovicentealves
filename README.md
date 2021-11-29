@@ -21,7 +21,7 @@ since 2018 💻⌨️
 ![image](https://user-images.githubusercontent.com/33547190/143926602-c5715f16-c06f-4840-b505-2d9ba8f4473f.png)
 
 ## Outros conhecimentos :
-### JPA, Maven, Gradle ,Lombok ,Bean Validation ,Spring MVC ,Thymeleaf ,TDD ,Junit5 ,Mockito,Flyway , SqlServer ,Spring Cloud ,Micro-Serviços ,Docker ,PHP.
+### JPA, Maven, Gradle ,Lombok ,Bean Validation ,Spring MVC ,Thymeleaf ,TDD ,Junit5 ,Mockito,Flyway , SqlServer ,Spring Cloud ,Micro-Serviços ,Docker ,PHP , Solid e CleanCode e  design patterns
 
 
 
