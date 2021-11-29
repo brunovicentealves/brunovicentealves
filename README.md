@@ -1,7 +1,7 @@
 ### Olá 👋
 
-#### Meu Nome é  **Bruno Alves**, Sou Desenvolvedor de Sistemas
-since 2018 💻⌨️ 
+#### Meu Nome é  **Bruno Alves**, Sou Desenvolvedor de Sistema
+since 2018 💻⌨️        
 
 ## Tecnologias que possuo conhecimento: 📄📋📝
 
@@ -12,22 +12,17 @@ since 2018 💻⌨️
 ![image](https://user-images.githubusercontent.com/33547190/143924577-ca4d03e9-88b1-4b34-97a6-8434c27d87be.png)
 ![image](https://user-images.githubusercontent.com/33547190/143924600-4bc43382-1504-4d43-b098-1cb17f427d6d.png)
 ![image](https://user-images.githubusercontent.com/33547190/143924653-f08c1b53-5df6-4876-8191-f86c3b36ce38.png)
+![image](https://user-images.githubusercontent.com/33547190/143926470-ca9a163f-e5d4-4398-8cc9-b50a709e9145.png)
 ![image](https://user-images.githubusercontent.com/33547190/143924661-3ad91752-6d0a-42df-bf67-4da63b60149b.png)
 ![image](https://user-images.githubusercontent.com/33547190/143924751-6f8afd23-16fc-4b77-8d08-3b097fe614c0.png)
+![image](https://user-images.githubusercontent.com/33547190/143926150-4f887a5a-bedb-4f14-95d2-70d7f540ebdb.png)
+![image](https://user-images.githubusercontent.com/33547190/143926205-aa3bf992-5180-4e12-b177-740241efd406.png)
+![image](https://user-images.githubusercontent.com/33547190/143926584-80fa8584-09c0-4fdd-b56c-a39d5fe237f5.png)
+![image](https://user-images.githubusercontent.com/33547190/143926602-c5715f16-c06f-4840-b505-2d9ba8f4473f.png)
 
+## Outros conhecimentos :
+### JPA, Maven, Gradle ,Lombok ,Bean Validation ,Spring MVC ,Thymeleaf ,TDD ,Junit5 ,Mockito,Flyway , SqlServer ,Spring Cloud ,Micro-Serviços ,Docker ,PHP.
 
-
-
-
-
-### public static void main(String[] args){
-#### System.out.println(**"->Java oo, Hibernate, Maven, Gradle, Lombok, Bean Validation, Spring Boot, Spring MVC, Thymeleaf, TDD ,Junit5,Mockito,Flayway ,PostgresSQL,Mysql,SqlServer,Spring cloud,MicroServiços "**);
-
-### public OtherKnowledge (){
-#### System.out.println(**"git,Gitlab,, Docker, php, bootstrap, Materialize, Html, Css, React , Angular"**);
-
-###     }
-### }
 
 
 
