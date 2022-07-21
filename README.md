@@ -20,6 +20,11 @@ since 2018 💻⌨️
 ![image](https://user-images.githubusercontent.com/33547190/143926584-80fa8584-09c0-4fdd-b56c-a39d5fe237f5.png)
 ![image](https://user-images.githubusercontent.com/33547190/143926602-c5715f16-c06f-4840-b505-2d9ba8f4473f.png)
 ![image](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![image](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![image](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white)
+![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![image](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ## Outros conhecimentos :
 ### JPA, Maven, Gradle ,Lombok ,Bean Validation ,Spring MVC ,Thymeleaf ,TDD ,Junit5 ,Mockito,Flyway , SqlServer ,Spring Cloud ,Micro-Serviços ,Docker ,PHP , Solid e CleanCode e  design patterns
 
