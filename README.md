@@ -26,7 +26,7 @@ since 2018 💻⌨️
 ![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![image](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ## Outros conhecimentos :
-### JPA, Maven, Gradle ,Lombok ,Bean Validation ,Spring MVC ,Thymeleaf ,TDD ,Junit5 ,Mockito,Flyway , SqlServer ,Spring Cloud ,Micro-Serviços ,Docker ,PHP , Solid e CleanCode ,design patterns,Jsf ,Starteam,jsp
+### JPA, Maven, Gradle ,Lombok ,Bean Validation ,Spring MVC ,Thymeleaf ,TDD ,Junit5 ,Mockito,Flyway , SqlServer ,Spring Cloud ,Micro-Serviços ,Docker ,PHP , Solid e CleanCode ,design patterns,Jsf ,Starteam,jsp.RabbitMQ,Kafka,Cache(Redis)
 
 
 
